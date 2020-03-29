@@ -8,7 +8,7 @@ Well this API is useful for getting User Information and Video details.
 * Heart Count, 
 * Number of videos,
 * User info using video link,
-* Video download link,
+* __Video download link (FOR VIDEO DOWNLOADER WEB OR APP)___,
 * Number of likes on video,
 * Number of comments on video,
 * Number of share on video,
