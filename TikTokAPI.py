@@ -20,7 +20,7 @@ class TikTokAPI:
 
         header = {"User-Agent": 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 
-        proxy = {'https': 'http://lum-customer-hl_fb0b684f-zone-scraper:y85nefr9lbxo@zproxy.lum-superproxy.io:22225'}
+        proxy = {'https': Enter Proxy}
 
         page = requests.get(self.url, headers=header, proxies=proxy)
 
@@ -74,7 +74,7 @@ class TikTokAPI:
 
         header = {"User-Agent": 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 
-        proxy = {'https': 'http://lum-customer-hl_fb0b684f-zone-scraper:y85nefr9lbxo@zproxy.lum-superproxy.io:22225'}
+        proxy = {'https':  Enter Proxy}
 
         page = requests.get(self.url, headers=header, proxies=proxy)
 
