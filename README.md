@@ -3,7 +3,7 @@ Here is the unofficial API for TIKTOK
 
 For this API you have to use Proxy Sever. You can buy any shared proxy server from any website.
 Well, I am using Luminati and it works for me. So, if you also want to use Luminati then you can buy from this URL-https://bit.ly/2USDQCf 
-May be you will get 5$ joining bonus, if you use my link. Thanks you
+May be you will get 5$ joining bonus, if you use my link. Thank you
 
 ### Purpose
 Well this API is useful for getting User Information and Video details.
